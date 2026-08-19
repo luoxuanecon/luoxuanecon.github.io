@@ -288,10 +288,6 @@ a:hover { text-decoration-thickness: 2px; }
   color: var(--muted);
   font-size: 1rem;
 }
-.xingkai-name {
-  font-family: "STXingkai", "华文行楷", "KaiTi", "楷体", cursive;
-  font-style: normal;
-}
 .research-intro + .section { margin-top: 2.75rem; }
 .research-content .section { margin-top: 2.5rem; }
 .research-content .section-heading { margin-bottom: 0.35rem; }
