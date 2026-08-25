@@ -14,7 +14,7 @@ Date: 2026-08-17
 - Consolidated the site into one Research page at the root address. Removed the separate Home, Research-path, and Contact pages and their navigation links.
 - Adopted the reference site's desktop profile-sidebar pattern and added a mobile layout.
 - Migrated the current text and research list from the live Weebly site/export.
-- Backed up one portrait and three formerly hosted paper PDFs. Two approved PDFs are included in the public website and linked from their paper titles; “Contracting Institutions and Migration” remains private. The original SSRN links are restored for “Seeing is Believing” and “Intellectual Property Protection in Regional Trade Agreements and Knowledge Spillovers.”
+- Backed up one portrait and three formerly hosted paper PDFs. The approved public paper PDFs are “Interdependent Development,” “Deep Integration,” and the newly updated “Contracting Institutions in a Spatial Economy”; the older “Contracting Institutions and Migration” backup remains private. The original SSRN links are restored for “Seeing is Believing” and “Intellectual Property Protection in Regional Trade Agreements and Knowledge Spillovers.”
 - Added light/dark theme support and accessible mobile navigation.
 
 ## Items requiring author confirmation
