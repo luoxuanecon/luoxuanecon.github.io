@@ -23,5 +23,5 @@ A dependency-free, single-page academic website prepared for GitHub Pages. The r
 
 - `assets/images/portrait.jpg`
 
-The approved PDFs for “Interdependent Development,” “Deep Integration,” and the updated “Contracting Institutions in a Spatial Economy” are published through their paper-title links. The older “Contracting Institutions and Migration” PDF remains only in the local private backup and is not linked or included. The original SSRN links are included for “Seeing is Believing” and “Intellectual Property Protection in Regional Trade Agreements and Knowledge Spillovers.”
+The approved PDFs for “Interdependent Development,” the updated R&R manuscript for “Deep Integration,” and “Contracting Institutions in a Spatial Economy” are published through their paper-title links. The older “Deep Integration” and “Contracting Institutions and Migration” PDFs remain only in the local private backup. The original SSRN links are included for “Seeing is Believing” and “Intellectual Property Protection in Regional Trade Agreements and Knowledge Spillovers.”
 
